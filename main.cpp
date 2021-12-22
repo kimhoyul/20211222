@@ -18,6 +18,7 @@ int main()
 		) / 2.0f;
 
 	cout << "»ï°¢ÇüÀÇ ³ĞÀÌ´Â " << Triangle << " ÀÔ´Ï´Ù." << endl;
+	cout << "¾Æ¿ôÇ² Ãß°¡" << endl;
 
 	return 0;
 }
